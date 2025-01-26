@@ -1,4 +1,4 @@
-// practice quesiton till variables and data type
+// practice question till variables and data type
 
 // var name = 'Parker Jotter Standard CT Ball Pen (Black)'
 // let rating = 70002

@@ -1,4 +1,9 @@
 //? operators in js
+// arithematics operators
+// assignment operators
+// comparison operators
+// logical operators
+// ternary operators
 
 //? 1. arithematics operators
 // let a = 4;
@@ -97,6 +102,10 @@
 // console.log('not false results : ', !false);
 
 
+//? (ternary operators) example
+// syntax : condition? true output : false output
 
- 
+// let age = prompt('enter your age..')
+// let result = age >= 18 ? 'you can vote' : 'you cannot vote';
+// console.log(result);
 
